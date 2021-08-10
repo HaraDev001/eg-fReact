@@ -2,4 +2,4 @@
 
 React App &amp; Express
 
-&copy; 2021 **egor0518** All Rights Reserved.
+&copy; 2021 **HaraDev001** All Rights Reserved.
